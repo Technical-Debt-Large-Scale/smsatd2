@@ -54,7 +54,7 @@ The following script [Measurement](https://github.com/armandossrecife/smsatd/tre
 
 [Monitoring](https://github.com/armandossrecife/smsatd/tree/main/md/mytable_q3_distribution_detailed.md) 
 
-The following script [Monitoring](https://github.com/armandossrecife/smsatd/tree/main/python/auxiliary/Convert_tables_to_latex_q4.ipynb)  is used to generate results about ATD's monitoring classification. 
+The following script [Monitoring](https://github.com/armandossrecife/smsatd/tree/main/python/auxiliary/Convert_tables_to_latex_q3.ipynb)  is used to generate results about ATD's monitoring classification. 
 
 ## RQ4 - Tools and Methods to Identify ATD
 

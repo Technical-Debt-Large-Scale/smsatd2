@@ -1,6 +1,6 @@
 # Replication kit to SMS 
 
-The replication kit is essential to reproduce all steps in a Systematic Mapping Study. 
+The replication kit is essential to reproduce all steps in a Systematic Mapping Study. Here, we describe the data and scripts used in a systematic mapping study (SMS) related to Architectural Technical Debt (ATD). The study involves creating a replication kit, a dataset, using scripts to analyze the data, and generating figures and tables. The SMS process involves five main phases: defining research questions, conducting a search process, selecting relevant studies, extracting data, and analyzing the data. The study aims to classify ATD types, measure ATD, monitor ATD, identify tools and methods to identify ATD, and calculate the cost of ATD items. The analysis involves generating various results related to publications, research types, ATD types, measurement, monitoring, tools, methods, and the cost of ATD items. A WordCloud of methods is also generated to visualize the results.
 
 # Dataset
 

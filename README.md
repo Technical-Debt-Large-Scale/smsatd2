@@ -38,15 +38,15 @@ You can find the following types of files in this replication kit:
 
 ## Requirements
 
-- pandas
-- numpy
-- xlrd
-- nltk
-- pillow
-- matplotlib
-- seaborn
-- sklearn
-- tabulate
+- [pandas](https://pandas.pydata.org): pandas is a powerful data manipulation and analysis library that provides data structures like DataFrames and Series, making it easy to work with structured data.
+- [numpy](https://numpy.org): is a fundamental package for scientific computing with Python, providing support for large, multi-dimensional arrays and matrices, along with an extensive collection of high-level mathematical functions.
+- [xlrd](https://pypi.org/project/xlrd): is a library to read data and formatting information from Excel files (.xls). It allows you to extract data from Excel spreadsheets into Python data structures.
+- [nltk](https://www.nltk.org): Natural Language Toolkit - nltk is a leading platform for building Python programs to work with human language data. It provides tools for text processing, tokenization, stemming, tagging, and more.
+- [pillow](https://python-pillow.org): is a friendly fork of the Python Imaging Library (PIL), which provides support for opening, manipulating, and saving many different image file formats.
+- [matplotlib](https://matplotlib.org): is a comprehensive library for creating static, animated, and interactive visualizations in Python. It provides a wide range of 2D plotting functionalities.
+- [seaborn](https://seaborn.pydata.org): is a data visualization library based on matplotlib that provides a high-level interface for creating attractive and informative statistical graphics.
+- [sklearn](https://scikit-learn.org/stable): scikit-learn is a versatile machine learning library that provides simple and efficient tools for data mining and data analysis. It includes various algorithms for classification, regression, clustering, and more.
+- [tabulate](https://pypi.org/project/tabulate) is a library for tabular data formatting, providing a convenient way to display data in a structured and readable format, especially when working with lists, dictionaries, or DataFrames.
 
 ## Install dependecies
 

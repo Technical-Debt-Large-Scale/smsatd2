@@ -54,7 +54,9 @@ You can find the following types of files in this replication kit:
 pip install -r python/requirements.txt
 ```
 
-### Install word cloud
+### Install [word cloud](https://github.com/amueller/word_cloud.git)
+
+A little word cloud generator in Python.
 
 ```bash
 git clone https://github.com/amueller/word_cloud.git
@@ -66,7 +68,7 @@ Return to the main replication kit path (smsatd)
 cd ..
 ```
 
-### Install Jupyter Notebook
+### Install [Jupyter Notebook](https://jupyter.org/)
 
 ```bash
 pip install jupyter

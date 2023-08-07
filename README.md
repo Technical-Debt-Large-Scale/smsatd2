@@ -23,6 +23,7 @@ You can find the following structure:
     ├── analyses (this folder contains .ipynb notebook files related to NLTK - Natural Language Toolkit - analysis)
     ├── auxiliary (this folder contains .ipynb notebook files that support latex files, text files, and generate md tables)
     ├── original (this folder contains the initial prototype of this replication kit - deprecated)
+    ├── requirements.txt (this file contains all requirements necessary to run the scripts)
     └── util (this folder contains python scripts to support other functions of the replication kit)
 ```
 
@@ -34,6 +35,54 @@ You can find the following types of files in this replication kit:
 - .tex files for LaTeX tables.
 - .md files containing markdown files published in this replication kit.
 - .ipynb files containing Python notebook files to be executed in Jupyter Notebook or Google Colab.
+
+## Requirements
+
+- pandas
+- numpy
+- xlrd
+- nltk
+- pillow
+- matplotlib
+- seaborn
+- sklearn
+- tabulate
+
+## Install dependecies
+
+```bash
+pip install -r python/requirements.txt
+```
+
+### Install word cloud
+
+```bash
+git clone https://github.com/amueller/word_cloud.git
+cd word_cloud && pip install .
+```
+
+Return to the main replication kit path (smsatd)
+```bash
+cd ..
+```
+
+### Install Jupyter Notebook
+
+```bash
+pip install jupyter
+```
+
+## Executing scripts
+
+If you use jupyter notebook:
+
+```bash
+jupyter notebook
+```
+
+Open scripts in python folder that you want to run
+
+If you use [Google Colab](https://colab.research.google.com/), you can simply open the Python script directly from Google Colab and install dependencies before running the selected Python script.
 
 # Dataset
 

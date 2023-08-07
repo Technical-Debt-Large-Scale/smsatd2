@@ -5,5 +5,5 @@ nltk
 pillow
 matplotlib
 seaborn
-sklearn
+scikit-learn
 tabulate

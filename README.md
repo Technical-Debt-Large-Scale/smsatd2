@@ -104,7 +104,11 @@ The main activities of this SMS follow five main phases:
 
 ![SMS Process](https://github.com/armandossrecife/smsatd/blob/main/images/sms-process.png) 
 
-Figure 1 show the flow used in this SMS
+Figure 1 - show the flow used in this SMS
+
+![Main Process](https://github.com/armandossrecife/smsatd/blob/main/images/searchprocess.png)
+
+Figure 2 - summary of the literature study
 
 We used the following [Form](https://github.com/armandossrecife/smsatd/tree/main/md/mytable_extract_data_eg.md) | [Script](https://github.com/armandossrecife/smsatd/tree/main/python/auxiliary/Convert_tables_to_latex_form.ipynb) to extract and analyze the data from the spreadsheet. 
 

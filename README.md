@@ -12,6 +12,7 @@ You can find the following structure:
 
 ```bash
 .
+├── LICENSE (Simplified BSD License)
 ├── README.md (Description of the replication kit)
 ├── csv (this folder contains .csv files)
 ├── dataset (this folder contains .csv, .xls, and .txt files related to the main dataset of the SMS)

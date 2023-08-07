@@ -1,0 +1,10 @@
+pandas
+numpy
+xlrd
+nltk
+pillow
+matplotlib
+seaborn
+sklearn
+ssl
+tabulate

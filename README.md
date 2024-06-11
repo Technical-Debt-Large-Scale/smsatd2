@@ -1,10 +1,8 @@
-# Replication kit to SMS 
+# Replication kit to ATD SMS Updated
 
-This replication kit is related to the paper 'Architectural Technical Debt - A Systematic Mapping Study' accepted in SBES 2023.
+This replication kit is related to update of the paper 'Architectural Technical Debt - A Systematic Mapping Study' accepted in SBES 2023 after doctoral thesis review.
 
 Armando Sousa, Lincoln Rocha, and Ricardo Britto. 2023. Architectural Technical Debt - A Systematic Mapping Study. In XXXVII Brazilian Symposium on Software Engineering (SBES 2023), September 25–29, 2023, Campo Grande, Brazil. ACM, New York, NY, USA, 10 pages. https://doi.org/10.1145/3613372.3613399
-
-The replication kit is essential to reproduce all steps in a Systematic Mapping Study. Here, we describe the data and scripts used in a systematic mapping study (SMS) related to Architectural Technical Debt (ATD). The study involves creating a replication kit, a dataset, using scripts to analyze the data, and generating figures and tables. The SMS process involves five main phases: defining research questions, conducting a search process, selecting relevant studies, extracting data, and analyzing the data. The study aims to classify ATD types, measure ATD, monitor ATD, identify tools and methods to identify ATD, and calculate the cost of ATD items. The analysis involves generating various results related to publications, research types, ATD types, measurement, monitoring, tools, methods, and the cost of ATD items. A WordCloud of methods is also generated to visualize the results related to methods to identify ATD. Finally, each research question has its own specific section to show the main results.
 
 ## More details
 

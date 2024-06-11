@@ -4,6 +4,8 @@ This replication kit is related to update of the paper 'Architectural Technical 
 
 Armando Sousa, Lincoln Rocha, and Ricardo Britto. 2023. Architectural Technical Debt - A Systematic Mapping Study. In XXXVII Brazilian Symposium on Software Engineering (SBES 2023), September 25–29, 2023, Campo Grande, Brazil. ACM, New York, NY, USA, 10 pages. https://doi.org/10.1145/3613372.3613399
 
+The original repository is available on https://github.com/armandossrecife/smsatd
+
 ## More details
 
 You can find the following structure: 

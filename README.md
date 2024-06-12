@@ -116,7 +116,7 @@ We used the following [Form](https://github.com/armandossrecife/smsatd/tree/main
 
 ## Publications and Venue Types
 
-[Selected Papers](https://github.com/armandossrecife/smsatd/tree/main/md/mytable_papers.md) | [Venues](https://github.com/armandossrecife/smsatd/tree/main/md/mytable_venues.md)
+[Selected Papers](https://github.com/Technical-Debt-Large-Scale/smsatd2/blob/main/md/selectedpapers.md) | [Venues](https://github.com/armandossrecife/smsatd/tree/main/md/mytable_venues.md)
 
 The following scripts [Selected papers](https://github.com/armandossrecife/smsatd/tree/main/python/auxiliary/Convert_tables_to_latex_sps.ipynb) and [sms_extraction](https://github.com/armandossrecife/smsatd/tree/main/python/analyses/sms_extraction.ipynb) is used to generate results about publications and venue types. 
 

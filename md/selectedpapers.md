@@ -71,3 +71,18 @@
 | 68 | SP68 | Sas et al. 2022         | On the relation between architectural smells and source code changes                                                                                      |
 | 69 | SP69 | De Toledo et al. 2022   | Accumulation and prioritization of architectural debt in three companies migrating to microservices                                                       |
 | 70 | SP70 | Verdecchia et al. 2022  | Empirical evaluation of an architectural technical debt index in the context of the Apache and ONAP ecosystems                                            |
+| 71 | SP71 |  Pigazzini et al. 2022 |  Exploiting dynamic analysis for architectural smell detection ...| 
+| 72 | SP72 |  Albuquerque et al. 2022 |  Comprehending the use of intelligent techniques to support ...|  
+| 73 | SP73 |  Bacchiega et al. 2022 |  Microservices smell detection through dynamic analysis ...|  
+| 74 | SP74 |  Damaceno et al. 2022 |  Towards an understanding of technical debt in reference ...|  
+| 75 | SP75 |  Amoroso 2022 |  Architectural Degradation and Technical Debt Dashboards ...|  
+| 76 | SP76 |  Snoeck and Wautelet 2022 |  Agile MERODE: a model-driven software engineering ...|  
+| 77 | SP77 |  Capilla et al. 2023 |  Detecting Architecture Debt in Micro-Service Open-Source ...|  
+| 78 | SP78 |  Moldt et al. 2023 |  Renew: Modularized architecture and new features ...|  
+| 79 | SP79 |  Santamaria et al. 2023 |  Integrating privacy debt and VSE's software ...|  
+| 80 | SP80 |  Sas and Paris 2023 |  An architectural technical debt index based on machine ...| 
+| 81 | SP81 |  Lefever et al. 2023 |  Towards the Assisted Decomposition of Large-Active Files ...| 
+| 82 | SP82 |  Funke et al. 2024 |  A Process for Monitoring the Impact of Architecture Principles ...|  
+| 83| SP83 |  Esposito et al. 2024 |  On the Correlation between Architectural Smells and Static ...|  
+| 84 | SP84 |  Liu et al. 2024 |  Prevalence and severity of design anti-patterns in open source ...|  
+| 85 | SP85 |  Gnoyke et al. 2024 |  Evolution Patterns of Software-Architecture Smells: An ...|  
